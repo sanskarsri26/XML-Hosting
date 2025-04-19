@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+	<User>
+		<Username>student</Username>
+		<PasswordHash>9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c</PasswordHash>
+		<Role>student</Role>
+	</User>
+	<User>
+		<Username>TA</Username>
+		<PasswordHash>d85b22f0890f5e82d76967037156f2a0bf779bcd44123bd5a2fa7ab299a289d6</PasswordHash>
+		<Role>staff</Role>
+	</User>
+</Users>

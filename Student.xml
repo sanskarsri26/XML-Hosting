@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProgressRecords>
+	<Student>
+		<Name>Will Smith</Name>
+		<CourseID>CS101</CourseID>
+		<Grade>A+</Grade>
+		<Attendance>97</Attendance>
+		
+	</Student>
+	<Student>
+		<Name>Alexander</Name>
+		<CourseID>MATH201</CourseID>
+		<Grade>B+</Grade>
+		<Attendance>87</Attendance>
+		
+	</Student>
+	<Student>
+		<Name>Alice Brown</Name>
+		<CourseID>ENG105</CourseID>
+		<Grade>A-</Grade>
+		<Attendance>92</Attendance>
+		
+	</Student>
+	<Student>
+		<Name>Bob White</Name>
+		<CourseID>CS101</CourseID>
+		<Grade>C</Grade>
+		<Attendance>75</Attendance>
+		
+	</Student>
+</ProgressRecords>

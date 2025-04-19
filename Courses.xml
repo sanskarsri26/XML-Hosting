@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Courses>
+	<Course>
+		<CourseID>CS101</CourseID>
+		<Title>Introduction to Computer Science</Title>
+		<Credits>3</Credits>
+		<Department>Computer Science</Department>
+	</Course>
+	<Course>
+		<CourseID>MATH201</CourseID>
+		<Title>Calculus I</Title>
+		<Credits>4</Credits>
+		<Department>Mathematics</Department>
+	</Course>
+	<Course>
+		<CourseID>ENG105</CourseID>
+		<Title>Academic Writing</Title>
+		<Credits>2</Credits>
+		<Department>English</Department>
+	</Course>
+</Courses>
