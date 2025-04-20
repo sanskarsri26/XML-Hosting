@@ -6,7 +6,7 @@
     "category": "Lost",
     "isLost": true,
     "location": "ASU Library",
-    "imageUrl": ""
+    "imageUrl": "https://imgur.com/a/K1t9Yir"
   },
   {
     "id": "2",
@@ -15,6 +15,6 @@
     "category": "Found",
     "isLost": false,
     "location": "Engineering Center",
-    "imageUrl": ""
+    "imageUrl": "https://imgur.com/a/pNjlEHn"
   }
 ]
