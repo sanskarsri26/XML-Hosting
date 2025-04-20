@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Car Keys",
+    "description": "A set of car keys with a blue keychain.",
+    "category": "Lost",
+    "isLost": true,
+    "location": "ASU Library",
+    "imageUrl": ""
+  },
+  {
+    "id": "2",
+    "name": "Notebook",
+    "description": "Math notebook with name on cover.",
+    "category": "Found",
+    "isLost": false,
+    "location": "Engineering Center",
+    "imageUrl": ""
+  }
+]
